@@ -144,89 +144,16 @@ OpenAI 기반 실시간 금융 상담 및 질답 서비스
 
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<br/>
 
-<div style="display: flex; flex-direction: column; align-items: center; width: 180px; text-align: center;">
-<img src="https://github.com/byesun.png" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;" alt="강병선 프로필" />
-<h4 style="margin: 5px 0; color: #40513b;">강병선</h4>
-<span style="background: #609966; color: white; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-bottom: 10px; font-weight: bold;">PM</span>
-<div style="font-size: 12px; line-height: 1.4; margin-bottom: 10px;">
-• 데이터베이스 구축<br/>
-• API 데이터 분석 및 데이터 정제<br/>
-• 보유 카드 소비 기반 카드 상품 추천<br/>
-• 일일 금융 퀴즈<br/>
-• Jenkins 기반 데이터 스케줄러
-</div>
-<a href="https://github.com/byesun" style="background: #40513b; color: white; text-decoration: none; padding: 6px 12px; border-radius: 8px; font-size: 12px;">@byesun</a>
-</div>
+### 🌟 **Team Members**
 
-<div style="display: flex; flex-direction: column; align-items: center; width: 180px; text-align: center;">
-<img src="https://github.com/chol644.png" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;" alt="김혜진 프로필" />
-<h4 style="margin: 5px 0; color: #40513b;">김혜진</h4>
-<span style="background: #609966; color: white; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-bottom: 10px; font-weight: bold;">Front-End Lead</span>
-<div style="font-size: 12px; line-height: 1.4; margin-bottom: 10px;">
-• UI/UX Design<br/>
-• 보유 잔액 기반 예금 상품 추천<br/>
-• 메인 화면 및 헤더 구현<br/>
-• 금융 교육 웹툰 게시판
-</div>
-<a href="https://github.com/chol644" style="background: #40513b; color: white; text-decoration: none; padding: 6px 12px; border-radius: 8px; font-size: 12px;">@chol644</a>
-</div>
-
-<div style="display: flex; flex-direction: column; align-items: center; width: 180px; text-align: center;">
-<img src="https://github.com/namminju.png" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;" alt="남민주 프로필" />
-<h4 style="margin: 5px 0; color: #40513b;">남민주</h4>
-<span style="background: #609966; color: white; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-bottom: 10px; font-weight: bold;">Developer</span>
-<div style="font-size: 12px; line-height: 1.4; margin-bottom: 10px;">
-• 페르소나 캐릭터 디자인<br/>
-• UI/UX Design<br/>
-• 보유 적금 기반 적금 상품 추천<br/>
-• 금융 교육 영상 게시판<br/>
-• 비교함 기능 구현
-</div>
-<a href="https://github.com/namminju" style="background: #40513b; color: white; text-decoration: none; padding: 6px 12px; border-radius: 8px; font-size: 12px;">@namminju</a>
-</div>
-
-<div style="display: flex; flex-direction: column; align-items: center; width: 180px; text-align: center;">
-<img src="https://github.com/maedachaeva.png" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;" alt="박채연 프로필" />
-<h4 style="margin: 5px 0; color: #40513b;">박채연</h4>
-<span style="background: #609966; color: white; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-bottom: 10px; font-weight: bold;">Developer</span>
-<div style="font-size: 12px; line-height: 1.4; margin-bottom: 10px;">
-• UI/UX Design<br/>
-• 페르소나 기반 금융 상품 추천<br/>
-• 금융 상품 카테고리별 필터링 기능<br/>
-• 비교함 기능 구현
-</div>
-<a href="https://github.com/maedachaeva" style="background: #40513b; color: white; text-decoration: none; padding: 6px 12px; border-radius: 8px; font-size: 12px;">@maedachaeva</a>
-</div>
-
-<div style="display: flex; flex-direction: column; align-items: center; width: 180px; text-align: center;">
-<img src="https://github.com/tjdgus3488.png" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;" alt="배성현 프로필" />
-<h4 style="margin: 5px 0; color: #40513b;">배성현</h4>
-<span style="background: #609966; color: white; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-bottom: 10px; font-weight: bold;">Back-End Lead</span>
-<div style="font-size: 12px; line-height: 1.4; margin-bottom: 10px;">
-• 로그인/회원가입 보안 설정<br/>
-• 마이페이지<br/>
-• 사용자별 상품 즐겨찾기
-</div>
-<a href="https://github.com/tjdgus3488" style="background: #40513b; color: white; text-decoration: none; padding: 6px 12px; border-radius: 8px; font-size: 12px;">@tjdgus3488</a>
-</div>
-
-<div style="display: flex; flex-direction: column; align-items: center; width: 180px; text-align: center;">
-<img src="https://github.com/hyeongseob01.png" style="border-radius: 50%; width: 100px; height: 100px; margin-bottom: 10px;" alt="임형섭 프로필" />
-<h4 style="margin: 5px 0; color: #40513b;">임형섭</h4>
-<span style="background: #609966; color: white; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-bottom: 10px; font-weight: bold;">Developer</span>
-<div style="font-size: 12px; line-height: 1.4; margin-bottom: 10px;">
-• API 데이터 분석<br/>
-• 페르소나 기반 금융 상품 추천<br/>
-• 금융 상품 카테고리 별 필터링 기능<br/>
-• 금융 교육 콘텐츠 게시판<br/>
-• OpenAI 기반 챗봇 구현
-</div>
-<a href="https://github.com/hyeongseob01" style="background: #40513b; color: white; text-decoration: none; padding: 6px 12px; border-radius: 8px; font-size: 12px;">@hyeongseob01</a>
-</div>
-
-</div>
+| **👨‍💻 강병선** | **👩‍💻 김혜진** | **🎨 남민주** | **🚀 박채연** | **⚙️ 배성현** | **🤖 임형섭** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/byesun.png" width="80" height="80" style="border-radius: 50%;"> | <img src="https://github.com/chol644.png" width="80" height="80" style="border-radius: 50%;"> | <img src="https://github.com/namminju.png" width="80" height="80" style="border-radius: 50%;"> | <img src="https://github.com/maedachaeva.png" width="80" height="80" style="border-radius: 50%;"> | <img src="https://github.com/tjdgus3488.png" width="80" height="80" style="border-radius: 50%;"> | <img src="https://github.com/hyeongseob01.png" width="80" height="80" style="border-radius: 50%;"> |
+| **PM** | **Front-End Lead** | **Developer** | **Developer** | **Back-End Lead** | **Developer** |
+| `데이터베이스 구축`<br/>`API 데이터 분석`<br/>`카드 상품 추천`<br/>`일일 금융 퀴즈`<br/>`Jenkins 스케줄러` | `UI/UX Design`<br/>`예금 상품 추천`<br/>`메인 화면 구현`<br/>`금융 교육 웹툰` | `페르소나 캐릭터 디자인`<br/>`UI/UX Design`<br/>`적금 상품 추천`<br/>`교육 영상 게시판`<br/>`비교함 기능` | `UI/UX Design`<br/>`페르소나 기반 추천`<br/>`카테고리별 필터링`<br/>`비교함 기능` | `로그인/회원가입`<br/>`마이페이지`<br/>`즐겨찾기 기능` | `API 데이터 분석`<br/>`페르소나 기반 추천`<br/>`필터링 기능`<br/>`교육 콘텐츠`<br/>`OpenAI 챗봇` |
+| [@byesun](https://github.com/byesun) | [@chol644](https://github.com/chol644) | [@namminju](https://github.com/namminju) | [@maedachaeva](https://github.com/maedachaeva) | [@tjdgus3488](https://github.com/tjdgus3488) | [@hyeongseob01](https://github.com/hyeongseob01) |
 
 ---
 
@@ -245,6 +172,7 @@ OpenAI 기반 실시간 금융 상담 및 질답 서비스
 <img src="https://img.shields.io/badge/Vue.js-3.5.13-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-6.2.1-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Pinia-3.0.3-FFD43B?style=for-the-badge&logo=pinia&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-5.3.7-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Chart.js-4.5.0-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Axios-1.10.0-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 
